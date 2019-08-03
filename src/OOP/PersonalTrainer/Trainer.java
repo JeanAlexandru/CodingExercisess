@@ -1,4 +1,4 @@
-package OOP_PersonalTrainer;
+package OOP.PersonalTrainer;
 
 public class Trainer {
     /*Create class Trainee, it should contain fields like: name, stamina, strength.

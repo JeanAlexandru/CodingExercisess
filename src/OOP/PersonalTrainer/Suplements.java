@@ -1,4 +1,4 @@
-package OOP_PersonalTrainer;
+package OOP.PersonalTrainer;
 
 public class Suplements {
     private double vitamin=2;

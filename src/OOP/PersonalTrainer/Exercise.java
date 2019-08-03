@@ -1,4 +1,4 @@
-package OOP_PersonalTrainer;
+package OOP.PersonalTrainer;
 
 import java.util.Scanner;
 
